@@ -1,0 +1,27 @@
+1. Question 1
+When a browser connects to a web server to retrieve a document, what is the default TCP/IP port that is used?
+->80
+
+2. Question 2
+When a browser connects to a web server to retrieve a document, what command is sent to the server?
+->GET
+
+3. Question 3
+Which of the HTTP headers does the browser look at to decide how to display the retrieved document?
+->Content-type
+
+4. Question 4
+What does the second "T" of HTTP stand for?
+->Transfer
+
+5. Question 5
+Which of the following is NOT part of a Uniform Resource Locator?
+->Operating System
+
+6. Question 6
+Which HTML tag typically generates a request to retrieve a document?
+->a
+
+7. Question 7
+What standards organization publishes many of the documents that describe the protocols we use on the Internet?
+->IETF
