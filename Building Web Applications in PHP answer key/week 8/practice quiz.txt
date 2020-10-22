@@ -6,7 +6,7 @@ Web crawlers follow anchor tags <a href=".... and may even fill in forms with a 
 ANS.POST
 Question 3
 Within PHP the [_____] array merges $_GET and $_POST data.
-ANS.array_merge
+ANS.$_REQUEST
  Question 4
 It is good practice for a web application to change data on a GET request.
 ANS.False
